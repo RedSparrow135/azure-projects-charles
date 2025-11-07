@@ -22,10 +22,9 @@ Cada carpeta representa un **proyecto independiente**, con sus pasos documentado
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|--------------|
-| **01 - Static Web App en Azure Storage** | Sitio web estático desplegado desde GitHub Pages y luego migrado a Azure Storage. | HTML, Azure Storage, GitHub Actions |
-| **02 - Servidor Ubuntu con Nginx en VM** | Creación de una máquina virtual en Azure con Ubuntu y despliegue de un sitio web personal. | Azure VM, Ubuntu, PowerShell |
-| **03 - Automatización con PowerShell** *(próximo)* | Scripts para crear y gestionar recursos Azure automáticamente. | PowerShell, Azure CLI |
-| **04 - Azure Cost Optimizer** *(en desarrollo)* | Pruebas con presupuestos y alertas de costos en cuentas de estudiante. | Azure Cost Management |
+| **01 - Servidor Ubuntu con Nginx en VM** | Creación de una máquina virtual en Azure con Ubuntu y despliegue de un sitio web personal. | Azure VM, Ubuntu, PowerShell |
+| **02 - Automatización con PowerShell** *(próximo)* | Scripts para crear y gestionar recursos Azure automáticamente. | PowerShell, Azure CLI |
+| **03 - Azure Cost Optimizer** *(en desarrollo)* | Pruebas con presupuestos y alertas de costos en cuentas de estudiante. | Azure Cost Management |
 
 
 ## 🧩 Cómo está organizado
