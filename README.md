@@ -27,3 +27,38 @@ Cada carpeta representa un **proyecto independiente**, con sus pasos documentado
 | **03 - Automatización con PowerShell** *(próximo)* | Scripts para crear y gestionar recursos Azure automáticamente. | PowerShell, Azure CLI |
 | **04 - Azure Cost Optimizer** *(en desarrollo)* | Pruebas con presupuestos y alertas de costos en cuentas de estudiante. | Azure Cost Management |
 
+
+## 🧩 Cómo está organizado
+
+azure-projects-charles/
+├── README.md
+├── 01-static-web-azure-storage/
+├── 02-vm-ubuntu-webserver/
+├── 03-powershell-automation/
+└── assets/
+
+
+
+---
+
+## 🧠 Aprendizajes clave
+- Implementar soluciones en la nube sin depender del portal.
+- Automatizar tareas con PowerShell y Azure CLI.
+- Controlar costos y usar cuentas múltiples para laboratorio.
+- Desplegar sitios web estáticos con CI/CD (GitHub Actions).
+
+---
+
+## 🌎 Próximamente
+- Integración con **Azure Static Web Apps**.  
+- Despliegue continuo de mi portafolio personal.  
+- Tutoriales técnicos en español sobre Azure Cloud.
+
+---
+
+📫 **Conecta conmigo**
+- LinkedIn: [tu perfil aquí]
+- GitHub: [@tuusuario](https://github.com/tuusuario)
+
+> “La nube no se aprende leyendo, se aprende desplegando.” ☁️
+
