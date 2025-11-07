@@ -32,9 +32,8 @@ Cada carpeta representa un **proyecto independiente**, con sus pasos documentado
 azure-projects-charles/
 
 ├── README.md
-├── 01-static-web-azure-storage/
-├── 02-vm-ubuntu-webserver/
-├── 03-powershell-automation/
+├── 01-vm-ubuntu-webserver/
+├── 02-powershell-automation/
 └── assets/
 
 
