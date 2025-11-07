@@ -31,6 +31,7 @@ Cada carpeta representa un **proyecto independiente**, con sus pasos documentado
 ## 🧩 Cómo está organizado
 
 azure-projects-charles/
+
 ├── README.md
 ├── 01-static-web-azure-storage/
 ├── 02-vm-ubuntu-webserver/
@@ -57,8 +58,8 @@ azure-projects-charles/
 ---
 
 📫 **Conecta conmigo**
-- LinkedIn: [tu perfil aquí]
-- GitHub: [@tuusuario](https://github.com/tuusuario)
+- LinkedIn: [[Carlos Alonso (Charles-X) Picho Vargas](https://www.linkedin.com/in/carlos-alonso-picho-vargas-87738213b/)]
+- GitHub: [@RedSparrow135](https://github.com/RedSparrow135)
 
 > “La nube no se aprende leyendo, se aprende desplegando.” ☁️
 
