@@ -50,21 +50,30 @@ azure-projects-charles/
 ├── README.md
 │
 ├── 01-vm-ubuntu-webserver/
-│   ├── scripts/          # Scripts bash usados para deploy/update
-│   ├── screenshots/      # Evidencias del proyecto
-│   └── README.md         # Documentación específica del proyecto
+│   ├── azure-web-demo/
+│   │   ├── index.html
+│   │   └── style.css
+│   ├── screenshots/
+│   ├── scripts/
+│   │   ├── README.md
+│   │   ├── install-nginx.sh
+│   │   └── update-site.sh
+│   ├── governance/
+│   │   ├── support-plan.md
+│   │   └── README.md
+│   └── README.md
 │
 ├── 02-sync-db-mobileapp/
-│   ├── api/              # API REST para sincronización con la app móvil
-│   ├── database/         # Scripts SQL / estructura de la base de datos
-│   ├── architecture/     # Diagramas de arquitectura y flujo
-│   └── README.md         # Documentación del proyecto
+│   ├── api/
+│   ├── database/
+│   ├── architecture/
+│   └── README.md
 │
 ├── 03-cost-optimizer/
-│   └── README.md         # Alertas y monitoreo de costos
+│   └── README.md
 │
 └── assets/
-    └── diagrams/         # Diagramas generales del portafolio
+    └── diagrams/
 
 
 
