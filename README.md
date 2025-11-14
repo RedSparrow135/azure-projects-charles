@@ -58,9 +58,6 @@ azure-projects-charles/
 │   │   ├── README.md
 │   │   ├── install-nginx.sh
 │   │   └── update-site.sh
-│   ├── governance/
-│   │   ├── support-plan.md
-│   │   └── README.md
 │   └── README.md
 │
 ├── 02-sync-db-mobileapp/
@@ -71,7 +68,9 @@ azure-projects-charles/
 │
 ├── 03-cost-optimizer/
 │   └── README.md
-│
+├── governance/
+│   ├── support-plan.md
+│   └── README.md
 └── assets/
     └── diagrams/
 
