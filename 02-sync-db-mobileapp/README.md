@@ -1,4 +1,4 @@
-#📱 Proyecto 02 — Base de Datos Centralizada + Sync para App Móvil en Azure
+#📱 Proyecto 02 — Base de Datos Centralizada + Sync para App Móvil en AzureArquitectura General
 
 🎯 Objetivo  
 Implementar una base de datos en una máquina virtual Ubuntu dentro de Azure y una API REST que permita sincronizar los datos de una aplicación móvil Android (con SQLite local) cada vez que haya conexión a Internet.  
