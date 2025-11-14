@@ -71,6 +71,8 @@ azure-projects-charles/
 
 ```
 
+</details>
+
 ---
 ## 🧠 Aprendizajes clave
 
